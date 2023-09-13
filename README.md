@@ -9,7 +9,6 @@ Welcome to Mern-Tasks! This project contains HTML and CSS tasks organized in a u
 - [HTML Tasks](#html-tasks)
 - [CSS Tasks](#css-tasks)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 
 ## Introduction :page_facing_up:
 
@@ -35,11 +34,11 @@ This project showcases various HTML and CSS tasks. You can explore each task by 
 
 ## Getting Started :rocket:
 
+Checkout the github deploy link.
+
 1. Clone this repository.
 2. Navigate to the HTML or CSS task you want to explore.
 3. Open the task file (e.g., `Task1.html`) in your browser.
 4. Enjoy exploring the tasks!
 
-## Contributing :handshake:
 
-Contributions are welcome! If you'd like to improve this project or add more tasks, please feel free to create a pull request.
