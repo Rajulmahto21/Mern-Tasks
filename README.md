@@ -1,6 +1,7 @@
 # Mern-Tasks :computer:
 
 Welcome to Mern-Tasks! This project contains HTML and CSS tasks organized in a user-friendly format.
+![Background Image](https://github.com/Rajulmahto21/Mern-Tasks/blob/main/Images/Screenshot%202023-09-13%20110535.png)
 
 ## Table of Contents :bookmark_tabs:
 
