@@ -9,7 +9,6 @@ Welcome to Mern-Tasks! This project contains HTML and CSS tasks organized in a u
 - [CSS Tasks](#css-tasks)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction :page_facing_up:
 
